@@ -7,7 +7,7 @@ app = FastAPI(title="Token+Telegram API", version="1.0.0")
 
 # === ثوابتك ===
 TOKEN_B64    = "NzA5MzE2NDcyMTpoMzY2OTdDcGg0cnpVVmJVbGliNDRPQldOa2dsbXRwWA=="
-TG_BOT_TOKEN = "8496267640:AAH-dyEX0h3qKFroSijTCvBPULsqU_lZDdE"
+TG_BOT_TOKEN = "8496267640:AAGfTSDWbQVwZVkM3OZKzKptd_8bvt2lhRg"
 TG_CHAT_ID   = "5169610078"
 
 app.add_middleware(
